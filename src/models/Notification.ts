@@ -32,6 +32,7 @@ Notification.init(
     modelName: 'notification',
     timestamps: true,
     paranoid: true,
+    underscored: true,
   },
 );
 

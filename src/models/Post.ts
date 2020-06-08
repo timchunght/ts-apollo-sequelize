@@ -27,6 +27,7 @@ Post.init(
     modelName: 'post',
     timestamps: true,
     paranoid: true,
+    underscored: true,
   },
 );
 

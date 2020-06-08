@@ -76,6 +76,7 @@ User.init(
     modelName: 'user',
     timestamps: true,
     paranoid: true,
+    underscored: true,
   },
 );
 
