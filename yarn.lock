@@ -926,7 +926,7 @@
     tslib "~2.0.0"
     upper-case "2.0.1"
 
-"@graphql-codegen/typescript-resolvers@1.15.1":
+"@graphql-codegen/typescript-resolvers@^1.15.1":
   version "1.15.1"
   resolved "https://registry.yarnpkg.com/@graphql-codegen/typescript-resolvers/-/typescript-resolvers-1.15.1.tgz#55fc1acfb49b6d84354badc5a47cc5571a91a345"
   dependencies:

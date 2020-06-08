@@ -40,7 +40,7 @@
   "devDependencies": {
     "@graphql-codegen/cli": "^1.15.1",
     "@graphql-codegen/typescript": "^1.15.1",
-    "@graphql-codegen/typescript-resolvers": "1.15.1",
+    "@graphql-codegen/typescript-resolvers": "^1.15.1",
     "@types/bcrypt-nodejs": "^0.0.31",
     "@types/bluebird": "^3.5.32",
     "@types/ejs": "^3.0.4",
