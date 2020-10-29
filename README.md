@@ -1,6 +1,4 @@
 # Apollo Sequelize Typescript 
-[![CircleCI](https://circleci.com/gh/timchunght/ts-apollo-sequelize.svg?style=shield)](https://circleci.com/gh/timchunght/ts-apollo-sequelize)
-[![codecov](https://codecov.io/gh/timchunght/ts-apollo-sequelize/branch/master/graph/badge.svg)](https://codecov.io/gh/timchunght/ts-apollo-sequelize)
 
 > Specification
 * [node](https://nodejs.org)
