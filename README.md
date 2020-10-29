@@ -1,6 +1,5 @@
 # Apollo Sequelize Typescript 
 
-> Specification
 * [node](https://nodejs.org)
 * [typescript](https://typescriptlang.org)
 * [sequelize](http://docs.sequelizejs.com)
